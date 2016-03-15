@@ -1,0 +1,19 @@
+{
+  "name": "etsy",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "main": "server.js",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.10.1",
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "qs": "^6.1.0",
+    "should": "^8.2.2",
+    "supertest": "^1.2.0"
+  }
+}
